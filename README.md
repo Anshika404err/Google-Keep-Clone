@@ -27,5 +27,5 @@ A simple and lightweight note-taking web application built using **React.js**. T
 - React.js
 - HTML5 & CSS3
 - JavaScript (ES6+)
-
+- Material UI
 ---
